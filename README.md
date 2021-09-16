@@ -1,3 +1,4 @@
+Because https://rprxy.xyz is very unreliable.
 # rprxy
 
 Because Roblox does not allow HttpService requests to roblox.com an external proxy is needed for access to site APIs.
